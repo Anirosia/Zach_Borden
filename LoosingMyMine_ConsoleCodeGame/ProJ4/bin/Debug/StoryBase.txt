@@ -1,0 +1,51 @@
+﻿Hello Bob i am your conscience. How about we go for a walk today?; Sure! im in a good mood.; Naaaa imma just stay inside.;2;3;
+You look ouside and it is a beauitful day! Which way should we go?; Out the front door down the main street.; Out the back door into the woods.;4;6;
+How Could we stay inside its a beauitful day out!?; Easy, i like to watch TV.; Man get off my back im lazy!;5;7;
+As you walk down the street you take to work everyday you see your neighbors Sarah and John.; Approach them both politely and mannerly.; Start screeming at the top of your lungs!;8;9;
+You Always Watch TV! it needs to stop!!; FLIP OUT!!!; I Never do such thing!;11;10;
+Lets take that path out back leading into the woods!! As you walk for what seems to be an hour you come across a split in the path.;Right;Left;12;13;
+You vigorously Argue with yourself for maybe 2 hours before the neighbors arrive to find you sitting in a cornor rocking back and forth; SCREAM SOME MORE!!; RUN!!;50;50;
+Hi Sarah, Hi John!; Ask them to come for a walk.; Just saying hello to be nice, keep walking.;14;15;
+You Start FLIPIN out on Sarah and john, The cops are called and you go to jail.; Try and fight the cops!; Go peacefully.;16;17;
+What? you always stay inside!! your lazy and fat!; HOW DARE YOU;...(say nothing);18;19;
+You Lose it!!... on yourself. after about an hour you are just yelling out loud with no clue why; yell some more!; Stop yelling;50;50;
+You turn right seeing a beautiful waterfall!;Jump in the water!;keep walking through the woods;20;21;
+You turn left seeing only darkness.; Keep walking.; turn back and go right instead.;22;12;
+They Agree and you guys have a great time walking around through town!!; Walk more; Go home;23;24;
+You put your head down and keep moving like you never seen them; Walk More; Decide to go home now;23;4;
+You get one good punch in on a poilce officer then get Tazed!;Keep Fighting; Accepted jail.;24;17;
+You get to jail and sit in a cell to face charges.; Accepted the charges; FLIP OUT;25;50;
+You FLIP OUT Screaming Yelling!! throwing chairs... Arguing with yourself; Keep up the argue; Go for a walk to blow off steam.;50;4;
+You stay quiet and keep to yourself realizing your mental state; Continue Fighting with yourself; Go for a walk now;50;4;
+You spend the day swimming and being out in the sun having fun. Good Job!; Go Home; Go Home;51;51;
+After spending the day in the woods enjoying nature in becomes night time;Go Home;Go Home;51;51;
+You Lose your way in the dark forest... oh no its night... oh no its been a week, a month! you are living off the land!!;INSANITY;INSANITY;50;50;
+You enter into downtown and meet up with some friends, you and your friends see someone you dont like however!; Jump them!!!; Walk away;17;26;
+Now you have beaten 6 Cops! The swat has been called to take you down!;Try and run; Face them;52;52;
+You Can go home now;Go home;Fight the cops!;2;16;
+You decide that you are tired and go home for the night; End your Journy; Go to bed Wake up tomorow;51;2;
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"";
+"";
+"";

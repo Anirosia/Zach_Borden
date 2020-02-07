@@ -1,0 +1,24 @@
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\bin\Debug\StoryBase.txt
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\bin\Debug\ProJ4.exe.config
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\bin\Debug\ProJ4.exe
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\bin\Debug\ProJ4.pdb
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\obj\Debug\ProJ4.csprojAssemblyReference.cache
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\obj\Debug\ProJ4.csproj.CoreCompileInputs.cache
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\obj\Debug\ProJ4.exe
+C:\Users\w0294822\Desktop\ProJ4\ProJ4\obj\Debug\ProJ4.pdb
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\bin\Debug\StoryBase.txt
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\bin\Debug\ProJ4.exe.config
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\bin\Debug\ProJ4.exe
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\bin\Debug\ProJ4.pdb
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\obj\Debug\ProJ4.csprojAssemblyReference.cache
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\obj\Debug\ProJ4.csproj.CoreCompileInputs.cache
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\obj\Debug\ProJ4.exe
+C:\Users\w0294822\Desktop\_ProJ4\ProJ4\obj\Debug\ProJ4.pdb
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\bin\Debug\StoryBase.txt
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\bin\Debug\ProJ4.exe.config
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\bin\Debug\ProJ4.exe
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\bin\Debug\ProJ4.pdb
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\obj\Debug\ProJ4.csprojAssemblyReference.cache
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\obj\Debug\ProJ4.csproj.CoreCompileInputs.cache
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\obj\Debug\ProJ4.exe
+C:\Users\w0294822\Desktop\Zachary Borden\Code\_ProJ4\ProJ4\obj\Debug\ProJ4.pdb
