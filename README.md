@@ -1,2 +1,2 @@
 # Zach_Borden
-Please Choose the Branch you would like to explore
+Here, I show the scripts that effect the enviroment around the player. 
